@@ -1,0 +1,47 @@
+# -*- mode: gitignore; -*-
+# Line above is an Emacs tag to select correct edit mode
+
+### Classic editor files to ignore
+## Emacs, for more examples see https://github.com/github/gitignore/blob/main/Global/Emacs.gitignore
+*~
+\#*\#
+.\#*
+
+## VScode, for more examples see https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
+.vscode/*
+
+
+### Classic OS releated files to ignore
+## Windows, for more examples see https://github.com/github/gitignore/blob/main/Global/Windows.gitignore
+# Windows thumbnail cache files
+Thumbs.db
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+## Mac OS-X, for more examples see https://github.com/github/gitignore/blob/main/Global/macOS.gitignore
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon[]
+
+# Thumbnails
+._*
+
+
+### My classic config files ans similar to ignore
+# Local git config that overides or adds settings from ~/.gitconfig
+.gitconfig
+# Any files related to Bash
+.bash*
+
+## Files used by 'direnv', see https://direnv.net/
+.env
+.envrc
