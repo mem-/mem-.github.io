@@ -144,17 +144,17 @@ git commit -m "First version of README.md" README.md
 
 ## Add the actual web content
 
-I decided to put the web content in `public_html`.
+I decided to put the web content in `docs`.
 
 ```bash
-mkdir public_html
+mkdir docs
 ```
 
 Add your web content.
 
 ```bash
-git add public_html/
-git commit -m "First version of web content" public_html/
+git add docs/
+git commit -m "First version of web content" docs/
 ```
 
 ## Push your first version to GitHub
@@ -171,7 +171,7 @@ See the
 
 Branch: main
 
-Folder: public_html
+Folder: /docs
 
 Click `Save`
 
