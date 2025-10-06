@@ -182,7 +182,8 @@ Custom domain: <your.domain>
 
 ## Pull the updated repository to your local machine
 
-When you publish your website with a custum DNS domain, GitHub creates a `CNAME` file in the root of your repository.
+When you publish your website with a custum DNS domain, GitHub creates a `CNAME`
+file in the folder selected for the web content.
 
 ```bash
 git pull origin
