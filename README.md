@@ -50,9 +50,9 @@ www                     IN      CNAME   mem-.github.io.
 See the
 [GitHub documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
 
-Repository name: <your-github-account>.github.io
+Repository name: \<your-github-account\>.github.io
 
-Description: The landing page for www.<your-domain>
+Description: The landing page for www.<your.domain>
 
 Optionally select the README and/or .gitignore
 
@@ -68,8 +68,8 @@ was created. I descided to use the `create a new repository on the command line`
 
 ```bash
 cd <your-local-git-repo-home-path>/
-mkdir www.<your-domain>
-cd www.<your-domain>/
+mkdir www.<your.domain>
+cd www.<your.domain>/
 git init
 git checkout -b main   # if the unborn branch is named master
 ```
