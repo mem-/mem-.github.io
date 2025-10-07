@@ -53,6 +53,7 @@ See the
 Repository name: \<your-github-account\>.github.io
 
 Description: The landing page for <span>ww</span>w.<your.domain>
+<!-- see https://stackoverflow.com/a/25707855 for <span> solution above -->
 
 Optionally select the README and/or .gitignore
 
