@@ -52,7 +52,7 @@ See the
 
 Repository name: \<your-github-account\>.github.io
 
-Description: The landing page for www&#46;<your.domain>
+Description: The landing page for <span>www.<your.domain></span>
 
 Optionally select the README and/or .gitignore
 
