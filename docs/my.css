@@ -1,12 +1,14 @@
-/* This file is a stripped down and modified version of
-    https://www.w3schools.com/w3css/5/w3.css */
+/*
+ * This file is a stripped down and modified version of
+ * https://www.w3schools.com/w3css/5/w3.css (Oct 2025)
+ */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 a{color:#000!important;background-color:transparent}a:active,a:hover{outline-width:0}
 
-html,body{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
+html,body{font-family:Inter,sans-serif;font-size:16px;line-height:1.5}html{overflow-x:hidden}
 h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}
-h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}
+h1,h2,h3,h4,h5,h6{font-family:Inter,,sans-serif;font-weight:400;margin:10px 0}
 hr{border:0;border-top:1px solid #eee;margin:10px 0}
 
 .w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
