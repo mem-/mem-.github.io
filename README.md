@@ -1,7 +1,7 @@
 # About this repo and GitHub Pages
 
 This is just a landing page / front page with my real content published on
-other subdomains.
+other subdomain(s).
 
 ## Publish on Github Pages
 
@@ -78,7 +78,9 @@ git checkout -b main   # if the unborn branch is named master
 ## Create a .gitignore file
 
 ```bash
-cat << '_EOT' > .gitignore  # single quote _EOT tag to keep $ sign and not process as a variable
+# Single quote _EOT tag to keep $ sign and not process as a variables
+
+cat << '_EOT' > .gitignore
 # -*- mode: gitignore; -*-
 # Line above is an Emacs tag to select correct edit mode
 
@@ -136,7 +138,7 @@ git commit -m "Added .gitignore file" .gitignore
 
 ## Create a README.md file
 
-I added a simplified version of this webpage to the README.md.
+Create and add a relevant README.md.
 
 ```bash
 git add README.md
